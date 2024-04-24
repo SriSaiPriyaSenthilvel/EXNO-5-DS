@@ -84,8 +84,6 @@ STEP 5:Include Necessary parameters in each functions.
 
 ![324333825-d4101745-4a05-4c0a-8c79-ad356d8e7b43](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/f6bba5ff-e27d-41af-a043-e36eb5f22997)
 
-![324333825-d4101745-4a05-4c0a-8c79-ad356d8e7b43-1](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/b90eecd2-befd-4f3f-90b0-08a72d4bc2fc)
-
 # Box Plot:
 
 ![324334059-172f8db9-8683-4c10-a38b-59494ace81f6](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/2845ddde-6cae-4e53-9363-8468a91329e2)
