@@ -72,5 +72,29 @@ STEP 5:Include Necessary parameters in each functions.
 
 ![324333497-f44b28df-de23-4101-a61a-e261e3532364](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/7415a55d-1d39-41c4-9ca8-e42e961e2d80)
 
+![324333560-a9742915-7b35-47fd-b59d-b7b8fadc54b2](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/1065f66d-fd05-4261-b93e-8b9483ba5152)
+
+![324333615-555b339d-2f21-4348-9feb-b631839a5e36](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/6da4076b-fb9c-4033-9a8b-914f43ec32a3)
+
+# Histogram:
+
+![324333708-9964cb3a-88ad-4adc-83e8-b936f6b86d12](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/a4521fd3-6b73-4bee-b7c2-a759230978d6)
+
+![324333768-3a7dab5f-b3ec-419e-96c0-8807e20cf43a](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/282236fb-2f50-458a-b763-de95d82d0f25)
+
+![324333825-d4101745-4a05-4c0a-8c79-ad356d8e7b43](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/f6bba5ff-e27d-41af-a043-e36eb5f22997)
+
+![324333825-d4101745-4a05-4c0a-8c79-ad356d8e7b43-1](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/b90eecd2-befd-4f3f-90b0-08a72d4bc2fc)
+
+# Box Plot:
+
+![324334059-172f8db9-8683-4c10-a38b-59494ace81f6](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/2845ddde-6cae-4e53-9363-8468a91329e2)
+
+![324334132-662bd95d-924e-403a-aeb0-3809cad79811](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/efda1fb2-25d1-4ce8-9cbe-63ab633e5a5a)
+
+# Pie Chart:
+
+![324334494-d31e6000-d08c-4e69-90bb-39ba7fe5bb8e](https://github.com/SriSaiPriyaSenthilvel/EXNO-5-DS/assets/119475702/60370a73-8f7b-4524-8b69-e84aabdcdaea)
+
 # Result:
- Include your result here
+Thus the program to Perform Data Visualization using matplot python library for the given datas is been implemented.
